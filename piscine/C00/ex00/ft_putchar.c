@@ -1,6 +1,14 @@
-// File : f_putchar.c
-// Author: HK
-// Function that displays the character passed as a parametre
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_putchar.c                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: bigbro <bigbro@student.42.fr>              +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/10/10 19:30:42 by bigbro            #+#    #+#             */
+/*   Updated: 2026/10/10 19:30:43 by bigbro           ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
 
 #include <stdlib.h>
 #include <unistd.h>
